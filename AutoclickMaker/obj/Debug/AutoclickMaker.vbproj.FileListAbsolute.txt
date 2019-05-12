@@ -1,0 +1,12 @@
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\bin\Debug\AutoclickMaker.exe.config
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\bin\Debug\AutoclickMaker.exe
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\bin\Debug\AutoclickMaker.pdb
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\bin\Debug\AutoclickMaker.xml
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.vbprojAssemblyReference.cache
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.Main.resources
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.Resources.resources
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.vbproj.GenerateResource.cache
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.vbproj.CoreCompileInputs.cache
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.exe
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.xml
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\AutoclickMaker\obj\Debug\AutoclickMaker.pdb

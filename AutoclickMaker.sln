@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AutoclickMaker", "AutoclickMaker\AutoclickMaker.vbproj", "{FC0EF51F-94BB-486F-BB3A-D8037B44F686}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Stub", "Stub\Stub.vbproj", "{C1853193-9AAF-41B4-A629-068E725D5717}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Autoclick", "Autoclick\Autoclick.vbproj", "{0E306785-40EA-40B4-ABA2-C3FF716DF37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0EF51F-94BB-486F-BB3A-D8037B44F686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0EF51F-94BB-486F-BB3A-D8037B44F686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0EF51F-94BB-486F-BB3A-D8037B44F686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0EF51F-94BB-486F-BB3A-D8037B44F686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1853193-9AAF-41B4-A629-068E725D5717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1853193-9AAF-41B4-A629-068E725D5717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1853193-9AAF-41B4-A629-068E725D5717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1853193-9AAF-41B4-A629-068E725D5717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E306785-40EA-40B4-ABA2-C3FF716DF37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E306785-40EA-40B4-ABA2-C3FF716DF37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E306785-40EA-40B4-ABA2-C3FF716DF37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E306785-40EA-40B4-ABA2-C3FF716DF37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32648B4-7B14-4444-9FC2-C0753C65A813}
+	EndGlobalSection
+EndGlobal

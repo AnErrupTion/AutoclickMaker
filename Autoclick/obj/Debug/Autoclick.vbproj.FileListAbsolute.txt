@@ -1,0 +1,12 @@
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\bin\Debug\Autoclick.exe.config
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\bin\Debug\Autoclick.exe
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\bin\Debug\Autoclick.pdb
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\bin\Debug\Autoclick.xml
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.Resources.resources
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.vbproj.GenerateResource.cache
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.vbproj.CoreCompileInputs.cache
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.exe
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.xml
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.pdb
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.vbprojAssemblyReference.cache
+C:\Users\ErrupTion_\source\repos\AutoclickMaker\Autoclick\obj\Debug\Autoclick.ACForm.resources
